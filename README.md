@@ -1,7 +1,6 @@
 # RStanBook
 
 [StanとRでベイズ統計モデリング](https://amzn.to/3h9tp8l)
-
 <img width="221" alt="Screen Shot 2020-12-17 at 13 40 10" src="https://user-images.githubusercontent.com/50528980/102535175-77c5d980-406d-11eb-8251-c2d658669b5f.png">
 
 書籍と関連サイトを参考にPyMC3の練習をする予定です。
